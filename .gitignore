@@ -1,0 +1,5 @@
+Icon
+*.idea
+*.iml
+*.class
+*.kotlin_module
