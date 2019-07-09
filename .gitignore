@@ -3,3 +3,4 @@ Icon
 *.iml
 *.class
 *.kotlin_module
+/lib
